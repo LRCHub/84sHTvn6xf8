@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Everytime We Touch",
+  "base_artist": "Cascada",
+  "createdAt": "2026-02-28T16:40:43.175882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everytime We Touch",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/01_Everytime_We_Touch_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everytime We Touch",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/02_Everytime_We_Touch_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everytime We Touch - Yanou's Candlelight Mix",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/03_Everytime_We_Touch_-_Yanou's_Candlelight_Mix_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everytime We Touch (Yanou's Candlelight mix)",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/04_Everytime_We_Touch_(Yanou's_Candlelight_mix)_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Everytime We Touch - Radio Edit",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/05_Everytime_We_Touch_-_Radio_Edit_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everytime We Touch (Radio Edit)",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/06_Everytime_We_Touch_(Radio_Edit)_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Everytime We Touch - Radio Mix Remastered",
+      "artist": "Maggie Reilly",
+      "has_synced": true,
+      "path": "select/07_Everytime_We_Touch_-_Radio_Mix_Remastered_Maggie_Reilly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everytime We Touch",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/08_Everytime_We_Touch_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everytime We Touch",
+      "artist": "Nightcore",
+      "has_synced": false,
+      "path": "select/09_Everytime_We_Touch_Nightcore.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everytime We Touch - Candlelight Mix",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/10_Everytime_We_Touch_-_Candlelight_Mix_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everytime We Touch (Candlelight Mix)",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/11_Everytime_We_Touch_(Candlelight_Mix)_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everytime We Touch",
+      "artist": "David Guetta & Chris Willis with Steve Angello & Sebastian Ingrosso",
+      "has_synced": true,
+      "path": "select/12_Everytime_We_Touch_David_Guetta_&_Chris_Willis_with_Steve_Angello_&_Sebastian_Ingrosso.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everytime We Touch",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/13_Everytime_We_Touch_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everytime We Touch",
+      "artist": "David Guetta & Chris Will",
+      "has_synced": true,
+      "path": "select/14_Everytime_We_Touch_David_Guetta_&_Chris_Will.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everytime We Touch",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/15_Everytime_We_Touch_Cascada.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everytime We Touch",
+      "artist": "Cascada",
+      "has_synced": false,
+      "path": "select/pl_01_Everytime_We_Touch_Cascada.txt"
+    }
+  ]
+}
